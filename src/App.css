@@ -75,7 +75,7 @@
 
 .home-details button{
 	border-radius: 5px;
-	margin: 5px;
+	margin: 5px 0px;
 	padding: 10px;
 	border-color: #f1e871;
 	background-color: var(--secondaryColor);
@@ -221,6 +221,10 @@
 }
 .workstitle{
 	text-align: center;
+}
+
+.workstitle h2{
+	padding-top: 20px;
 }
 
 .works-details{

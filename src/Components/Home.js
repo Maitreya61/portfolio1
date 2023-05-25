@@ -6,7 +6,7 @@ export default function Home(){
             <h2>Hi! There</h2>
             <h2>I am Maitreya Gottimukkula</h2>
             <h4>Software Developer</h4>
-            <button>Contact Me</button>
+            <button>Download CV</button>
         </div>
         <div className="home-img">
             <img src="Web.png" alt="home-img" />
